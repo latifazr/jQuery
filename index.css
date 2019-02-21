@@ -1,0 +1,13 @@
+.imagP{
+    width: 40%;
+    height: 50PX ;
+    margin-left: 30%;
+}
+
+.card{
+    border :2px solid black;
+    text-align:center;
+    width: 40%;
+    height: 280PX ;
+    margin-top: 2%;
+}
